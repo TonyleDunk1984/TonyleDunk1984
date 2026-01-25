@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision for Mushroom detection and Automatic Harvesting, Temperature and humidity Control.<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Deep Learning with PyTorch<br>💬 Ask me about whenever I received a present from Santa last year (Pun Alert) <br>⚡ Fun fact I think reusable rocket are cool.
+🔭 I’m currently working on Computer Vision for Mushroom detection and Automatic Harvesting, Temperature and humidity Control.<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Implement AI in Agriculture <br>🌱 I’m currently learning Deep Learning with PyTorch<br>💬 Ask me about whenever I received a present from Santa last year (Pun Alert) <br>⚡ Fun fact I think reusable rocket are cool.
 
 
 ## 🌐 Socials:
