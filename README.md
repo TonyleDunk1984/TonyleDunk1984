@@ -25,3 +25,15 @@
 [![](https://visitcount.itsvg.in/api?id=TonyleDunk1984&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 15-minute activity sheet
+
+`history_to_sheet.py` reads a browser history export (CSV, JSON, or pasted lines with a timestamp, title, and URL), buckets visits into the Nov 2026 sheet, and prints one column per day. Times are America/Vancouver. Each column runs from 9:00 AM that date through 8:30 AM the next morning. Row 61 is the extra 10:45 PM row and stays blank. Labels come from `categories.json` (first matching rule). A slot with no history stays empty. `--summary` writes hours per label, plus the first and last activity time, to stderr.
+
+```bash
+python3 history_to_sheet.py sample_history.txt --start 2026-11-14 --end 2026-11-14
+python3 history_to_sheet.py sample_history.txt --start 2026-11-14 --end 2026-11-14 --summary
+python3 history_to_sheet.py my_history.json --start 2026-11-01 --end 2026-11-30 --rules categories.json
+```
+
+Paste the lines under a day's header into row 5 of that day's column. The header itself is on stderr, so a redirect keeps stdout as the paste block. A visit at 8:45–8:59 AM has no row on this sheet; it still counts toward the first or last activity time.

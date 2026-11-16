@@ -1,0 +1,18 @@
+# Synthetic pasted history so the labels and the sheet rows can be checked.
+# Not a real browser export. One visit per line: local time, title, URL.
+2026-11-14 08:50	before this column	https://www.youtube.com/watch?v=early
+2026-11-14 09:05	NRC work log	https://docs.google.com/document/d/nrc-log
+2026-11-14 09:10	Scott — lab schedule	https://mail.google.com/mail/u/0/#inbox/1
+2026-11-14 14:00	lofi stream	https://www.youtube.com/watch?v=abc
+2026-11-14 14:05	r/engineering	https://www.reddit.com/r/engineering/
+2026-11-14 14:10	Mechanical co-op	https://www.linkedin.com/jobs/view/123
+2026-11-14 14:12	BEUMER Group	https://www.indeed.com/viewjob?jk=abc
+2026-11-14 15:00	StudentAid BC	https://studentaidbc.ca/dashboard
+2026-11-14 16:00	French practice	https://www.duolingo.com/learn
+2026-11-14 17:00	bike lock	https://example-unknown.test/locks
+2026-11-14 18:00	Inbox	https://mail.google.com/mail/u/0/#inbox
+2026-11-14 22:45	CCAT	https://app.slack.com/client/T123/C123
+2026-11-14 23:05	shorts	https://www.youtube.com/shorts/xyz
+2026-11-15 01:10	Cover letter — BEUMER	https://docs.google.com/document/d/cover
+2026-11-15 01:30	Aoharu ch 19	https://comix.to/title/aoharu
+2026-11-15 09:00	next column	https://www.youtube.com/watch?v=next
