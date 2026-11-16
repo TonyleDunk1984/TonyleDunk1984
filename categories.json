@@ -1,0 +1,76 @@
+{
+  "_how": "Rules run top to bottom. A visit keeps the first rule that matches a title keyword, a url fragment, or a domain (subdomains count). Put a new line here when a slot comes back as ??.",
+  "rules": [
+    {
+      "label": "co-op",
+      "title": ["cover letter"]
+    },
+    {
+      "label": "work/NRC",
+      "title": ["nrc", "scott"],
+      "domains": [
+        "slack.com",
+        "nrc-cnrc.gc.ca",
+        "arxiv.org",
+        "scholar.google.com",
+        "ieeexplore.ieee.org",
+        "semanticscholar.org"
+      ]
+    },
+    {
+      "label": "co-op",
+      "url": ["careerconnect", "pdportal", "linkedin.com/jobs", "coop.ubc.ca"],
+      "domains": [
+        "myworkday.com",
+        "myworkdayjobs.com",
+        "indeed.com",
+        "greenhouse.io",
+        "lever.co",
+        "smartrecruiters.com",
+        "careers.ubc.ca"
+      ]
+    },
+    {
+      "label": "admin",
+      "title": ["ubc workspace"],
+      "domains": [
+        "studentaidbc.ca",
+        "csnpe-nslsc.canada.ca",
+        "nslsc.ca",
+        "workspace.ubc.ca",
+        "wealthsimple.com",
+        "td.com",
+        "rbc.com",
+        "royalbank.com",
+        "scotiabank.com",
+        "tangerine.ca",
+        "cibc.com",
+        "bmo.com"
+      ]
+    },
+    {
+      "label": "entertainment",
+      "domains": [
+        "youtube.com",
+        "youtu.be",
+        "reddit.com",
+        "netflix.com",
+        "comix.to",
+        "webtoon.com",
+        "mangadex.org",
+        "steampowered.com",
+        "twitch.tv"
+      ]
+    },
+    {
+      "label": "learning",
+      "title": ["french", "course"],
+      "domains": [
+        "duolingo.com",
+        "coursera.org",
+        "edx.org",
+        "canvas.ubc.ca"
+      ]
+    }
+  ]
+}
